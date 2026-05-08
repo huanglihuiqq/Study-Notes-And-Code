@@ -1,37 +1,43 @@
 # Study-Notes-And-Code
 
-#### 介绍
-学习笔记与代码练习仓库，包含C#学习记录、项目Demo
+> 持续沉淀 C# / .NET 学习笔记、语法练习、项目 Demo 与开发踩坑记录
 
-#### 软件架构
-软件架构说明
+---
 
+## 📚 仓库目录结构
 
-#### 安装教程
+Study-Notes-And-Code/
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+├─ 01-CSharp 基础笔记 / # C# 语法、面向对象、常用 API 学习记录
 
-#### 使用说明
+├─ 02-.NET框架练习 / # ASP.NET Core、Web API 等框架实战代码
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+├─ 03 - 项目 Demo/ # 课程设计、小型管理系统等综合项目源码
 
-#### 参与贡献
+├─ 04 - 算法与数据结构 / # 基础算法题解、数据结构练习├─ 05 - 开发踩坑记录 / # 开发过程中的报错、排查方案与优化总结└─ README.md
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+---
 
+## ✨ 仓库说明
 
-#### 特技
+- **学习沉淀**：系统整理 C# 与 .NET 开发的学习笔记，包含语法要点、常见易错点与最佳实践。
+- **实战代码**：所有笔记配套可运行的示例代码，从基础语法到框架应用，覆盖学习全流程。
+- **项目实践**：包含课程项目与练手Demo，熟悉前后端交互、数据库操作与RESTful API开发。
+- **持续更新**：随着学习进度持续维护，补充新的知识点、项目与踩坑记录，保持技术复盘习惯。
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+---
+
+## 🛠️ 技术栈
+
+- 语言：C#
+- 框架：.NET / ASP.NET Core
+- 工具：Visual Studio / Git / SQL Server
+- 其他：Git 版本控制、RESTful API 设计、数据库基础操作
+
+---
+
+## 📫 联系我
+
+如果你对仓库内容有疑问，或者想交流学习心得，欢迎通过以下方式联系：
+
+- Gitee：https://gitee.com/huanglihuiqq/study-notes-and-code
